@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Lyrics
 
 Develop an elegant React.js Music Application. 
@@ -134,3 +135,8 @@ Here we are going to focus on 2. Creating a Topical Branch:
 8. You have successfully created a pull request. Now wait for mentor approval. Once approved, you can merge the pull request.
 
 #
+=======
+# React Music Player
+
+Just a project I'm messing around with
+>>>>>>> 8a3ae9ba91110475af96c6c2be4675eca6905558
