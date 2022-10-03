@@ -1,6 +1,4 @@
-# Project Lyrics
-
-Just a project I'm messing around with...
+# Project Lyrics (NOTE: for learning purposes - this is from a tutorial)
 
 Develop an elegant React.js Music Application. 
 
